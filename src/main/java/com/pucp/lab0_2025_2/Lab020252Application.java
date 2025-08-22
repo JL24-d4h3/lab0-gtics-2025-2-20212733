@@ -8,6 +8,7 @@ public class Lab020252Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Lab020252Application.class, args);
-	}
 
+		System.out.println("Esta es una nueva versión :'3");
+	}
 }
