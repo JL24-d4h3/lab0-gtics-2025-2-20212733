@@ -10,5 +10,7 @@ public class Lab020252Application {
 		SpringApplication.run(Lab020252Application.class, args);
 
 		System.out.println("Esta es una nueva versión :'3");
+
+		System.out.println("API para la creación de mascotas");
 	}
 }
